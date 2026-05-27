@@ -1,16 +1,16 @@
 ---
-title: "Nome do Grupo"
+title: Brincar é Aprender
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Grupo"
-hero_subtitle: "Design de Produto IV · 2025-26"
+hero_title: Nome do Grupo
+hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "DesignDeProdutoIV"
+course: DesignDeProdutoIV
 group_name: ""
 group_number: ""
 ---
@@ -21,11 +21,11 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome               |
+| ------- | ------------------ |
+| 2024571 | Denilson Correia   |
+| 2024322 | Mykyta Kiyanshecko |
+| 2023221 | Laura Santos       |
 
 ---
 
