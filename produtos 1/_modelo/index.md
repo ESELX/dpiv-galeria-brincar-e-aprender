@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+LEGOS
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
