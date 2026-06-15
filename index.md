@@ -11,11 +11,11 @@ hero_overlay: 0.3
 hero_align: center
 published: true
 course: DesignDeProdutoIV
-group_name: Laura Santos, Denilson Correia
+group_name: Ver com as mãos
 group_number: ""
 ---
 
-# Nome do Grupo
+# Ver com as mãos
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
@@ -54,7 +54,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <a class="gallery-card" href="produtos/pop/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Gode sensorial</h3>
+    <h3>Godé sensorial</h3>
     <p>Laura Santos</p>
   </a>
 <a class="gallery-card" href="produtos/produtos1/">
