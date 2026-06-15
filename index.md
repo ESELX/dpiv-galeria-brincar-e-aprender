@@ -5,13 +5,13 @@ tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
 hero_title: Nome do Grupo
-hero_subtitle: Design de Produto IV · 2025-26
+hero_subtitle: Aprende a conhecer o mundo com as mãos
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
 course: DesignDeProdutoIV
-group_name: ""
+group_name: Laura Santos, Denilson Correia
 group_number: ""
 ---
 
@@ -52,12 +52,21 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
+  <a class="gallery-card" href="produtos/pop/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Gode sensorial</h3>
+    <p>Laura Santos</p>
+  </a>
+<a class="gallery-card" href="produtos/produtos1/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Denilson Correia</p>
+  </a>
+  <a class="gallery-card" href="produtos/produtos2/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Nome do Aluno</p>
   </a>
-
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
 </div>
