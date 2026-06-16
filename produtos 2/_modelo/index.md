@@ -1,20 +1,20 @@
 ---
-title: Nome do Produto
+title: Carrinho textura ( Conjuntos pinha, favo de mel, textura de uma folha e textura de madeira tipo metal dourado )
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Nome do Produto
+hero_title: Carrinho textura ( Conjuntos pinha, favo de mel, textura de uma folha e textura de madeira tipo metal dourado. )
 hero_subtitle: Mykyta Kiyanshecko · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Mykyta Kiyaschenko 
+student_number: 2024322
 ---
 
-# Nome do Produto
+# Carinho de Textura 
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -41,7 +41,7 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: <!-- [embed Fusion ou link a360.co --](https://a360.co/4ec2YxV)>
 - Ficheiros: `attachments/`
 
 ## Função
