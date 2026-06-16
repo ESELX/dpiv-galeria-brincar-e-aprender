@@ -72,9 +72,9 @@ Relativamente à segurança, o projeto foi desenvolvido de acordo com os princí
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/Final%201.jpeg)
 
+![](attachments/Final_2.png)
 ---
 
 ## Processo
