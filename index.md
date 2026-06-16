@@ -58,12 +58,12 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Denilson Correia</p>
   </a>
 <a class="gallery-card" href="produtos/produtos1/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos 1/_modelo/attachments/hero.jpg" alt="" />
     <h3>Palete Sensorial</h3>
     <p>Laura Santos</p>
   </a>
   <a class="gallery-card" href="produtos/produtos2/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos 2/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Nome do Aluno</p>
   </a>
