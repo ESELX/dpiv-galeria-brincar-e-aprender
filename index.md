@@ -54,13 +54,13 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <a class="gallery-card" href="produtos/pop/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Godé sensorial</h3>
-    <p>Laura Santos</p>
+    <h3>Nome do Produtol</h3>
+    <p>Denilson Correia</p>
   </a>
 <a class="gallery-card" href="produtos/produtos1/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Denilson Correia</p>
+    <h3>Palete Sensorial</h3>
+    <p>Laura Santos</p>
   </a>
   <a class="gallery-card" href="produtos/produtos2/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
