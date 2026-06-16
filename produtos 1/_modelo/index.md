@@ -31,7 +31,8 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 A Paleta Sensorial foi criada para pequenos artistas que adoram explorar o mundo através do toque, das formas e das texturas. Inspirada numa paleta de pintura, combina aprendizagem e diversão ao estimular a criatividade, a coordenação motora e a perceção tátil. Concebida para ser utilizada por todas as crianças, inclui marcações em Braille nas suas peças, tornando-a especialmente benéfica para crianças com deficiência visual ou baixa visão. Desta forma, promove uma experiência de brincadeira inclusiva, acessível e enriquecedora para todos. Recomendada para crianças a partir dos 18 meses, é perfeita para atividades educativas, sensoriais e momentos de descoberta sem fim.
 
-![](attachments/placeholder.png)
+![](attachments/Conceito.png)
+> Imagem gerada por IA
 
 ## Enquadramento
 
