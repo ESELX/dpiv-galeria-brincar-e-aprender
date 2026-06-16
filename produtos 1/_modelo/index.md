@@ -1,20 +1,20 @@
 ---
-title: Nome do Produto
+title: Paleta Sensorial
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Nome do Produto
+hero_title: Paleta Sensorial
 hero_subtitle: Laura Nunes · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Laura Santos
+student_number: "2023221"
 ---
 
-LEGOS
+# Paleta Sensorial
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
