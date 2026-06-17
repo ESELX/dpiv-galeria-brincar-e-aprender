@@ -14,51 +14,84 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+Não foi possível realizar a impressão do protótipo em CNC. Por esse motivo, foram desenvolvidos protótipos dos encaixes em cartão, permitindo obter uma perceção mais próxima de como seria o resultado final do projeto.
 
 ![Protótipo final](attachments/placeholder.png)
 ![](attachments/placeholder.png)
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
+O desenvolvimento do protótipo foi realizado recorrendo ao Fusion 360 e ao Adobe Illustrator. O Fusion 360 foi utilizado para a modelação paramétrica das peças, permitindo ajustar dimensões e proporções de forma rápida e consistente ao longo do projeto. Através desta abordagem, foi possível garantir que todas as formas apresentassem tamanhos semelhantes e uma linguagem visual coerente entre si. Por sua vez, o Adobe Illustrator foi utilizado para desenhar e refinar as formas gráficas da paleta e das diferentes peças que compõem o brinquedo.
 
-![](attachments/placeholder.png)
+O processo de prototipagem iniciou-se pela criação da base principal do brinquedo. Após a definição e validação desta estrutura, procedeu-se ao desenvolvimento das peças individuais e dos respetivos encaixes. Numa fase inicial, os encaixes foram concebidos com formato circular; contudo, durante o processo verificou-se que a máquina de corte apresentava limitações na execução deste tipo de detalhe. Como solução, os encaixes foram redesenhados com formato retangular, garantindo uma produção mais eficaz e funcional.
 
+Relativamente aos elementos táteis, a proposta inicial previa a utilização de diferentes texturas para identificar as peças. No entanto, após reflexão e testes realizados, optou-se pela integração de marcações em Braille, tornando o brinquedo mais acessível e adequado ao público-alvo. A implementação do Braille constituiu a última etapa do processo de prototipagem. As inscrições presentes em cada peça correspondem ao nome da respetiva forma em português, permitindo uma associação entre o reconhecimento tátil e a aprendizagem da nomenclatura das figuras geométricas.
 
-## 3. Protótipos Exploratórios
+![](attachments/Captura%20de%20ecrã%202026-06-17%20222756.png)
+> Criação da geometria inicial da base
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
+![](attachments/Captura%20de%20ecrã%202026-06-17%20222849.png)
+> Base Espelhada
 
-![](attachments/placeholder.png)
+![641](attachments/Captura%20de%20ecrã%202026-06-17%20222735.png)
+> Moldagem da base
 
-## 4. Modelos 3D
+![](attachments/Captura%20de%20ecrã%202026-06-17%20222722.png)
+> Encaixe e DogBones
+
+![](attachments/Captura%20de%20ecrã%202026-06-17%20222951.png)
+> Extrusão das peças na base espelhada
+
+![](attachments/Captura%20de%20ecrã%202026-06-17%20223031.png)
+>Criação e Extrusão das peças 
+
+![](attachments/Captura%20de%20ecrã%202026-06-17%20223054.png)
+>Criação dos encaixes e DogBones
+
+![](attachments/Captura%20de%20ecrã%202026-06-17%20223304.png)
+>União das Peças
+
+![](attachments/Captura%20de%20ecrã%202026-06-17%20223319.png)
+>Resultado Final
+
+## 3. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+https://a360.co/4vbdZWb
 
-## 5. Outros Modelos
+## 4. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+Exploração conceptual de diferentes soluções de brinquedos inclusivos desenvolvida durante a fase inicial do projeto. Estes estudos permitiram analisar diferentes formas de interação tátil, sistemas de encaixe e configurações estruturais antes da definição da proposta final.
 
-![](attachments/placeholder.png)
+![](attachments/Brinquedos%20de%20roscas.jpeg)
+>Estudo de um sistema de encaixe vertical inspirado em brinquedos de rosca.
 
-## 6. Esboços e Pranchas-Resumo
+![](attachments/Puzzle.jpeg)
+>Exploração de uma solução em formato de puzzle tátil.
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+A última proposta desenvolvida consistiu num puzzle sensorial tátil composto por diferentes texturas. As formas e os padrões táteis utilizados foram inspirados em elementos orgânicos identificados no moodboard, procurando estabelecer uma ligação entre a exploração sensorial e as referências visuais selecionadas durante a fase conceptual do projeto.
 
-![](attachments/placeholder.png)
+## 5. Esboços e Pranchas-Resumo
 
-## 7. Pesquisa
+Os esboços desenvolvidos durante a fase inicial do projeto serviram de base para a construção da solução final. A prancha resumo sintetiza as principais ideias exploradas ao longo deste processo, apresentando uma versão próxima do conceito que deu origem ao produto final.
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+![](attachments/Esboço%203.jpeg)
+>Exploração da forma e encaixe
+
+![](attachments/Esboço%202%201.jpeg)
+>Tentativa de desenho Técnico
+
+![697](attachments/Esboço%201%201.jpeg)
+>Esboço de encaixe
+
+![](attachments/Ideias%20Concetuais.jpeg)
+>Prancha Resumo
+## 6. Pesquisa
+
+### 6.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 ![](attachments/placeholder.png)
 

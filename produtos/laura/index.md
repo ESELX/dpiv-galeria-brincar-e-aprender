@@ -23,10 +23,6 @@ student_number: "2023221"
 -->
 
 > Aprende a conhecer o mundo através das mãos
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
 ## Conceito
 
 A Paleta Sensorial foi criada para pequenos artistas que adoram explorar o mundo através do toque, das formas e das texturas. Inspirada numa paleta de pintura, combina aprendizagem e diversão ao estimular a criatividade, a coordenação motora e a perceção tátil. Concebida para ser utilizada por todas as crianças, inclui marcações em Braille nas suas peças, tornando-a especialmente benéfica para crianças com deficiência visual ou baixa visão. Desta forma, promove uma experiência de brincadeira inclusiva, acessível e enriquecedora para todos. Recomendada para crianças a partir dos 18 meses, é perfeita para atividades educativas, sensoriais e momentos de descoberta sem fim.
@@ -55,9 +51,7 @@ O brinquedo foi desenvolvido para ser produzido principalmente através de maqui
 
 Para o desenvolvimento do projeto foram utilizados o Fusion 360 e o Adobe Illustrator. O Fusion 360 foi utilizado para a modelação paramétrica das peças, permitindo ajustes rápidos às dimensões e configurações do brinquedo. Já o Adobe Illustrator foi utilizado na criação das formas gráficas e das marcações em Braille presentes nas diferentes peças.
 
-- Modelo 3D: <!-- https://a360.co/4vbdZWb-->
-- Ficheiros: `attachments/`
-
+- Modelo 3D: <https://a360.co/4vbdZWb>
 ## Função
 
 A principal função deste brinquedo é estimular a perceção espacial da criança, ajudando-a a compreender conceitos de tamanho, forma e relação entre os diferentes elementos. Ao mesmo tempo, promove o desenvolvimento do raciocínio lógico, da coordenação motora fina e do reconhecimento de formas através da atividade de encaixe.
@@ -69,8 +63,6 @@ A faixa etária recomendada situa-se entre os 18 meses e os 3 anos de idade. O b
 Relativamente à segurança, o projeto foi desenvolvido de acordo com os princípios da Diretiva 2009/48/CE relativa à segurança dos brinquedos. As peças apresentam dimensões adequadas à faixa etária definida, cantos arredondados e materiais não tóxicos, minimizando riscos durante a utilização e garantindo uma experiência segura para a criança.
 
 ## Apresentação
-
-Imagens-chave que sintetizam o produto final.
 
 ![](attachments/Final%201.jpeg)
 
