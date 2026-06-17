@@ -44,15 +44,52 @@ More than simply creating toys, Nestor aims to promote a more inclusive, sustain
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
-Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
+![](attachments/Recolha%20de%20Objetos.jpeg)
+Objeto 1
 
-![Objeto 1](attachments/placeholder.png)
+![](attachments/Objeto%202.jpeg)
+Objeto 2
 
-- **Objeto 1** — origem / autoria / razão da escolha
-- **Objeto 2** — ...
+![](attachments/Objeto%203.jpeg)
+Objeto 3
+
+**Objeto 1 – Brinquedo de empilhamento e correspondência de formas**
+
+Origem / Autoria:
+Brinquedo educativo de madeira amplamente utilizado em contextos de aprendizagem infantil, presente em diversas marcas de brinquedos pedagógicos.
+
+Razão da escolha:
+Foi selecionado pela sua capacidade de promover o reconhecimento de formas geométricas, a coordenação motora fina e a associação entre objetos e respetivos encaixes. O sistema de correspondência de formas serviu de inspiração para a mecânica principal do projeto.
+
+**Objeto 2 – Painéis sensoriais táteis**
+
+Origem / Autoria:
+Material educativo sensorial utilizado em contextos de educação inclusiva e estimulação precoce.
+
+Razão da escolha:
+Foi escolhido pela utilização de diferentes texturas para estimular a exploração tátil. Esta referência contribuiu para o desenvolvimento inicial do conceito de padrões sensoriais e para a reflexão sobre formas de tornar o brinquedo acessível a crianças com deficiência visual.
+
+**Objeto 3 – Puzzle de encaixe com pegas**
+
+Origem / Autoria:
+Brinquedo pedagógico de madeira destinado ao reconhecimento de formas e cores.
+
+Razão da escolha:
+Foi selecionado devido à simplicidade da interação e ao sistema de encaixe intuitivo. A forma como as peças são manipuladas e associadas aos respetivos espaços influenciou o desenvolvimento da solução final, especialmente no que diz respeito à aprendizagem através do toque e da exploração autónoma.
 
 ### 2.2. Moodboard
 
-Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
+As referências selecionadas para o moodboard foram maioritariamente inspiradas em elementos naturais, uma vez que estes estabelecem uma ligação direta com o conceito de sustentabilidade presente no projeto. A análise destas referências permitiu identificar formas orgânicas e texturas características da natureza, que posteriormente influenciaram o desenvolvimento visual e sensorial dos diferentes componentes dos brinquedos.
+
 
 ![Moodboard](produtos/mykyta/attachments/moodboard.jpg)
+
+## 3. Packaging
+
+A embalagem foi desenvolvida com texturas táteis e informações em Braille em alto-relevo, permitindo que possa ser identificada e lida por utilizadores com deficiência visual. Foi concebida como uma solução universal para todos os brinquedos da marca, apresentando dimensões de 35 × 25 × 15 cm.
+
+Produzida em cartão reciclável, a embalagem foi projetada para ser montada sem recurso a cola, reduzindo o desperdício de materiais e facilitando a sua reciclagem. Com o objetivo de garantir uma maior proteção durante o transporte e armazenamento dos brinquedos, foi desenvolvido o conceito de uma embalagem extensível, inspirada em estruturas expansíveis utilizadas em sistemas de acondicionamento e proteção de produtos. A principal referência para esta solução pode ser consultada em: https://pt.pinterest.com/pin/795166877992227991/.
+
+![](attachments/Packaging.jpeg)
+
+![](attachments/Caixa%202.jpeg)

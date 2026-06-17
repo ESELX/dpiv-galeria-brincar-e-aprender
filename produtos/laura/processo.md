@@ -14,7 +14,12 @@ published: true
 
 # Processo
 
-## 1. Testes De Encaixes
+
+## 1. Produto Final
+
+![](attachments/Final.jpeg)
+
+## 2. Testes De Encaixes
 
 Não foi possível realizar a impressão do protótipo em CNC. Por esse motivo, foram desenvolvidos protótipos dos encaixes em cartão, permitindo obter uma perceção mais próxima de como seria o resultado final do projeto.
 
@@ -27,7 +32,7 @@ Não foi possível realizar a impressão do protótipo em CNC. Por esse motivo, 
 
 Observações: Durante a fase de prototipagem, verificou-se a necessidade de aumentar a espessura de alguns elementos do brinquedo para melhorar a sua resistência e estabilidade. Foi também identificado que a folga definida para os encaixes era excessiva, o que resultava numa ligação pouco firme entre as peças, tornando o conjunto instável. Como tal, concluiu-se que o sistema de encaixe deveria ser revisto e ajustado para garantir uma melhor fixação e uma experiência de utilização mais
 
-## 2. Processo de Prototipagem
+## 3. Processo de Prototipagem
 
 O desenvolvimento do protótipo foi realizado recorrendo ao Fusion 360 e ao Adobe Illustrator. O Fusion 360 foi utilizado para a modelação paramétrica das peças, permitindo ajustar dimensões e proporções de forma rápida e consistente ao longo do projeto. Através desta abordagem, foi possível garantir que todas as formas apresentassem tamanhos semelhantes e uma linguagem visual coerente entre si. Por sua vez, o Adobe Illustrator foi utilizado para desenhar e refinar as formas gráficas da paleta e das diferentes peças que compõem o brinquedo.
 
@@ -62,13 +67,13 @@ Relativamente aos elementos táteis, a proposta inicial previa a utilização de
 ![](attachments/Captura%20de%20ecrã%202026-06-17%20223319.png)
 >Resultado Final
 
-## 3. Modelos 3D
+## 4. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4vbdZWb
 
-## 4. Outros Modelos
+## 5. Outros Modelos
 
 Exploração conceptual de diferentes soluções de brinquedos inclusivos desenvolvida durante a fase inicial do projeto. Estes estudos permitiram analisar diferentes formas de interação tátil, sistemas de encaixe e configurações estruturais antes da definição da proposta final.
 
@@ -80,7 +85,7 @@ Exploração conceptual de diferentes soluções de brinquedos inclusivos desenv
 
 A última proposta desenvolvida consistiu num puzzle sensorial tátil composto por diferentes texturas. As formas e os padrões táteis utilizados foram inspirados em elementos orgânicos identificados no moodboard, procurando estabelecer uma ligação entre a exploração sensorial e as referências visuais selecionadas durante a fase conceptual do projeto.
 
-## 5. Esboços e Pranchas-Resumo
+## 6. Esboços e Prancha-Resumo
 
 Os esboços desenvolvidos durante a fase inicial do projeto serviram de base para a construção da solução final. A prancha resumo sintetiza as principais ideias exploradas ao longo deste processo, apresentando uma versão próxima do conceito que deu origem ao produto final.
 
@@ -95,9 +100,9 @@ Os esboços desenvolvidos durante a fase inicial do projeto serviram de base par
 
 ![](attachments/Ideias%20Concetuais.jpeg)
 >Prancha Resumo
-## 6. Pesquisa
+## 7. Pesquisa
 
-### 6.1. Aspectos valorizados do moodboard
+### 7.1. Aspectos valorizados do moodboard
 
 Foram selecionadas referências naturais para a construção do moodboard, uma vez que estas se relacionam diretamente com o tema da sustentabilidade abordado no projeto. A partir dessas referências, foram identificadas diferentes formas e texturas presentes na natureza, que serviram de inspiração para o desenvolvimento dos elementos do brinquedo.
 
@@ -105,7 +110,7 @@ As texturas naturais foram utilizadas para criar padrões sensoriais que estimul
 
 ![](attachments/moodboord.jpg)
 
-### 6.2. Objetos de referencia
+### 7.2. Objetos de referencia
 
 Para o desenvolvimento da forma da base, foram utilizadas como referência uma paleta de pintura tradicional e uma paleta egípcia utilizada para a mistura de pigmentos. Estas referências contribuíram para a definição da forma orgânica do produto, reforçando a sua ligação ao universo artístico e inspirando a solução final adotada no projeto.
 
@@ -113,7 +118,7 @@ Para o desenvolvimento da forma da base, foram utilizadas como referência uma p
 
 ![](attachments/Paleta%202.jpeg)
 
-## 7. Pesquisa Bibliográfica
+## 8. Pesquisa Bibliográfica
 
 Durante a fase de pesquisa, foram consultados artigos relacionados com o desenvolvimento de brinquedos inclusivos para crianças com deficiência visual. Os estudos analisados destacam que a oferta de brinquedos especificamente concebidos para este público continua a ser reduzida, sendo a maioria dos brinquedos disponíveis desenvolvida para crianças sem limitações visuais. Esta constatação reforçou a relevância do projeto e a necessidade de criar uma solução que privilegiasse a exploração tátil, a acessibilidade e a aprendizagem através dos sentidos.
 
