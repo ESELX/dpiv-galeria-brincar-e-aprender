@@ -14,12 +14,18 @@ published: true
 
 # Processo
 
-## 1. Protótipo(s)
+## 1. Testes De Encaixes
 
 Não foi possível realizar a impressão do protótipo em CNC. Por esse motivo, foram desenvolvidos protótipos dos encaixes em cartão, permitindo obter uma perceção mais próxima de como seria o resultado final do projeto.
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/Modelo%201%201.jpeg)
+
+
+![](attachments/Modelo%202.jpeg)
+
+![](attachments/Modelo%203.jpeg)
+
+Observações: Durante a fase de prototipagem, verificou-se a necessidade de aumentar a espessura de alguns elementos do brinquedo para melhorar a sua resistência e estabilidade. Foi também identificado que a folga definida para os encaixes era excessiva, o que resultava numa ligação pouco firme entre as peças, tornando o conjunto instável. Como tal, concluiu-se que o sistema de encaixe deveria ser revisto e ajustado para garantir uma melhor fixação e uma experiência de utilização mais
 
 ## 2. Processo de Prototipagem
 
@@ -101,9 +107,10 @@ As texturas naturais foram utilizadas para criar padrões sensoriais que estimul
 
 ### 6.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+![](attachments/Paleta%201.jpeg)
+
+
 
 ## 9. Outros Elementos
 
