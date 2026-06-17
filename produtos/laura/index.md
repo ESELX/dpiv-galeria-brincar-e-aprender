@@ -66,11 +66,13 @@ Relativamente à segurança, o projeto foi desenvolvido de acordo com os princí
 
 ![](attachments/Final%201.jpeg)
 
+![](attachments/brinquedo%20prespetiva%20explodida.png)
+
+![](attachments/explodida%20prestiva%202.png)
+
 ![](attachments/Final_2.png)
 ---
 
 ## Processo
-
-O percurso completo de iterações, modelos e pesquisa está em [processo.md](processo.md), organizado do **mais recente** para o **mais antigo**.
 
 [Ver processo completo →](processo.md)
