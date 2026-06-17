@@ -14,7 +14,7 @@ course: DesignDeProdutoIV
 group_name: Ver com as mãos
 group_number: ""
 ---
-
+[]()
 # Ver com as mãos
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
@@ -61,13 +61,16 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <img src="produtos/laura/attachments/hero.jpg" alt="" />
     <h3>Palete Sensorial</h3>
     <p>Laura Santos</p>
-  </a>
-  <a class="gallery-card" href="produtos/mykyta/">
-    <img src="produtos/mykyta/attachments/hero.jpg" alt="" />
-    <h3>Carrinho de Textura</h3>
-    <p>Mykyta Kiyashchenko</p>
-  </a>
-  <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
-</div>
+   </a>
+  <a class="gallery-card" href="produtos/mykyta/">
+  <img src="produtos/20231234-maria/attachments/hero.jpg" alt="" />
+  <h3>Carrinhos de Texturas</h3>
+  <p>Mykyta Kiyashchenko</p>
+</a>
+    
+ 
 <!-- markdownlint-enable MD033 -->
+[[]]
+
+
