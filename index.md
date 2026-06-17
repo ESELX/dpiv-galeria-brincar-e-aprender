@@ -63,9 +63,15 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Laura Santos</p>
   </a>
   <a class="gallery-card" href="produtos/produtos2/">
+<<<<<<< Updated upstream
     <img src="produtos 2/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Nome do Aluno</p>
+=======
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Carrinho de Textura</h3>
+    <p>Mykyta Kiyashchenko</p>
+>>>>>>> Stashed changes
   </a>
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
