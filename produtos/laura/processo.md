@@ -107,11 +107,19 @@ As texturas naturais foram utilizadas para criar padrões sensoriais que estimul
 
 ### 6.2. Objetos de referencia
 
+Para o desenvolvimento da forma da base, foram utilizadas como referência uma paleta de pintura tradicional e uma paleta egípcia utilizada para a mistura de pigmentos. Estas referências contribuíram para a definição da forma orgânica do produto, reforçando a sua ligação ao universo artístico e inspirando a solução final adotada no projeto.
 
 ![](attachments/Paleta%201.jpeg)
 
+![](attachments/Paleta%202.jpeg)
 
+## 7. Pesquisa Bibliográfica
 
-## 9. Outros Elementos
+Durante a fase de pesquisa, foram consultados artigos relacionados com o desenvolvimento de brinquedos inclusivos para crianças com deficiência visual. Os estudos analisados destacam que a oferta de brinquedos especificamente concebidos para este público continua a ser reduzida, sendo a maioria dos brinquedos disponíveis desenvolvida para crianças sem limitações visuais. Esta constatação reforçou a relevância do projeto e a necessidade de criar uma solução que privilegiasse a exploração tátil, a acessibilidade e a aprendizagem através dos sentidos.
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+Os artigos Exploration of Tactile-Oriented Toy Design for Visually Impaired Children e A Novel Multi-Sensory Educational Teaching Toy for Visually Impaired Children serviram como suporte teórico para a compreensão das necessidades deste público e para a definição de estratégias de design adequadas ao desenvolvimento do brinquedo.
+
+https://www.researchgate.net/publication/381186298_Exploration_of_Tactile-Oriented_Toy_Design_for_Visually_Impaired_Children/link/66639882b769e769191fd377/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
+
+https://dl.acm.org/doi/10.1145/3629296.3629365
+
