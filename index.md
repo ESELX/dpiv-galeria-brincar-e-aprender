@@ -17,7 +17,7 @@ group_number: ""
 []()
 # Ver com as mãos
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> Somos um grupo dedicado ao desenvolvimento de brinquedos sustentáveis e inclusivos para crianças com deficiência visual. Através da utilização de materiais sustentáveis e de experiências multissensoriais, procuramos criar produtos que promovam a aprendizagem, a autonomia e a exploração do mundo através do toque.
 
 ## Elementos do Grupo
 
@@ -30,12 +30,13 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
+![](attachments/Contexto%20Design.jpeg)
+> Imagem criada por AI de crianças a brincar com os nossos brinquedos
 
-Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
+A Nestor nasceu da necessidade de criar brinquedos mais inclusivos e acessíveis para crianças com deficiência visual. Durante a fase de pesquisa, verificou-se que a oferta de brinquedos adaptados a este público é reduzida, levando frequentemente à exclusão destas crianças de experiências de aprendizagem e brincadeira essenciais ao seu desenvolvimento.
+
+Perante esta realidade, a marca propõe o desenvolvimento de brinquedos educativos em madeira que promovem a criatividade, a aprendizagem e a exploração sensorial através do toque. A sustentabilidade constitui igualmente um dos pilares do projeto, sendo privilegiada a utilização de restos de madeira provenientes da indústria do mobiliário, materiais que, de outra forma, poderiam ser descartados. Desta forma, a Nestor procura dar uma nova vida a recursos existentes enquanto cria produtos com impacto social positivo, contribuindo simultaneamente para a inclusão e para a redução do desperdício.
 
 [Ver contexto completo →](contexto.md)
 
