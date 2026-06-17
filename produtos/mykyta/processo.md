@@ -11,7 +11,6 @@ hero_overlay: 0.3
 hero_align: center
 published: true
 ---
-
 # Processo
 
 > Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
@@ -20,8 +19,8 @@ published: true
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+[![Protótipo final](attachments/final%201.jpg)
+![](attachments/final2.jpg)
 
 ## 2. Processo de Prototipagem
 
@@ -34,19 +33,19 @@ Maquinação CNC, montagem, acabamentos pontuais.
 
 Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
-![](attachments/placeholder.png)
+![](attachments/modo%20de%20encaixe.jpg)
 
 ## 4. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+(https://a360.co/4ec2YxV)
 
 ## 5. Outros Modelos
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
-![](attachments/placeholder.png)
+![](attachments/encaixes.jpg)
 
 ## 6. Esboços e Pranchas-Resumo
 
@@ -54,20 +53,24 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
+![697](attachments/Prancha%20de%20Resumos.jpg)
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+![](attachments/moodboard.jpg)
 
 ### 7.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+![](attachments/referencia.jpeg)
 
 ## 9. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+
+A maneira de montagem para fabricar uma das partes das rodas ser imprimidas de ter o melhor formato ser uma forma mais infantil para tentar interessar os pais para comprar a criança algo interessante e diferente. 
+
+A parte descoberta deste trabalha foi a melhor solução para encaixar com o metal presentes em noutros carrinhos. Mas em especifico a maneira foi aprendida e de forma mais útil em si     

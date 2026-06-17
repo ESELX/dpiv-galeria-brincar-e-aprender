@@ -91,11 +91,15 @@ Os esboços desenvolvidos durante a fase inicial do projeto serviram de base par
 >Prancha Resumo
 ## 6. Pesquisa
 
-### 6.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 6.1. Aspectos valorizados do moodboard
 
-![](attachments/placeholder.png)
+Foram selecionadas referências naturais para a construção do moodboard, uma vez que estas se relacionam diretamente com o tema da sustentabilidade abordado no projeto. A partir dessas referências, foram identificadas diferentes formas e texturas presentes na natureza, que serviram de inspiração para o desenvolvimento dos elementos do brinquedo.
 
-### 7.2. Objetos de referencia
+As texturas naturais foram utilizadas para criar padrões sensoriais que estimulam a exploração tátil por parte das crianças, permitindo-lhes reconhecer e compreender diferentes superfícies através do toque. Paralelamente, as formas inspiradas em elementos naturais contribuem para uma maior ligação com o ambiente que as rodeia, promovendo a aprendizagem e a descoberta de forma lúdica e inclusiva.
+
+![](attachments/moodboord.jpg)
+
+### 6.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
