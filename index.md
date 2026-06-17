@@ -52,26 +52,20 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/pop/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="produtos/denilson/">
+    <img src="produtos/denilson/attachments/hero.jpg" alt="" />
     <h3>Nome do Produtol</h3>
     <p>Denilson Correia</p>
   </a>
-<a class="gallery-card" href="produtos/produtos1/">
-    <img src="produtos 1/_modelo/attachments/hero.jpg" alt="" />
+<a class="gallery-card" href="produtos/laura/">
+    <img src="produtos/laura/attachments/hero.jpg" alt="" />
     <h3>Palete Sensorial</h3>
     <p>Laura Santos</p>
   </a>
-  <a class="gallery-card" href="produtos/produtos2/">
-<<<<<<< Updated upstream
-    <img src="produtos 2/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
-=======
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="produtos/mykyta/">
+    <img src="produtos/mykyta/attachments/hero.jpg" alt="" />
     <h3>Carrinho de Textura</h3>
     <p>Mykyta Kiyashchenko</p>
->>>>>>> Stashed changes
   </a>
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
