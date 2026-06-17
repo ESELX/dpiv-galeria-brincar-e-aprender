@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Paleta Sensorial(Tactus)
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -22,38 +22,51 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+>O tapete Sensorial é um brinquedo de encaixe em MDF para crianças com deficiência visual, onde cada peça e encaixe têm o nome gravado em Braille.
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+O tapete sensorial é um brinquedo de encaixe em MDF feito para crianças com deficiência visual, dos 7 aos 11 anos. A ideia é simples: a criança encaixa peças geométricas na bandeja, usando o tato para as identificar. Para isso, cada peça e cada encaixe têm o nome gravado em Braille.
+O ponto de partida foi um brinquedo de encaixe já existente, que foi redesenhado para ser mais inclusivo.
 
-![](attachments/placeholder.png)
+
+![](attachments/criançabrincando.png)
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O tapete Sensorial nasceu da ideia de que um brinquedo de encaixe pode ser usado por qualquer criança, com ou sem visão. Dentro do contexto de grupo, o projeto explorou o uso de MDF e Braille para criar algo simples, tátil e inclusivo. A pesquisa inicial — jogos de encaixe e referências de Braille — definiu o caminho: uma bandeja com 6 formas geométricas que a criança identifica pelo toque.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Material
+MDF — fácil de cortar e gravar, superfície lisa e segura para crianças.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+Processos
+Fresagem CNC — para cortar as peças e os encaixes da bandeja.
+
+Software
+Autodesk Fusion — modelação 3D de todas as peças.
+
+- Modelo 3D: https://a360.co/4oyRqbn
 - Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+A criança tira as peças da bandeja e tenta colocá-las no sítio certo, guiando-se pela forma e pelo Braille. O nome da forma está gravado tanto na peça como no encaixe, o que ajuda a associar a palavra à forma.
+
+Formas: Círculo · Quadrado · Triângulo · Retângulo · Estrela · Hexágono
+
+Idade-alvo: 7–11 anos
+
+Montagem: nenhuma — vem pronto a usar.
+
+Segurança: desenvolvido de acordo com a Diretiva 2009/48/CE — cantos arredondados, materiais não tóxicos, dimensões seguras para a faixa etária.
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/render.png)
+![](attachments/Modelaçãofusion.png)
 
 ---
 

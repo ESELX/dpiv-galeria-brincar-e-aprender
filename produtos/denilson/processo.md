@@ -18,16 +18,27 @@ published: true
 
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+Não foi possível realizar a impressão do protótipo em CNC.
 
 ![Protótipo final](attachments/placeholder.png)
 ![](attachments/placeholder.png)
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
+O protótipo foi desenvolvido no **Autodesk Fusion**, usando modelação paramétrica para ajustar dimensões e proporções ao longo do processo. Isso permitiu garantir coerência entre as 6 peças e afinar os encaixes da bandeja de forma rápida.
 
-![](attachments/placeholder.png)
+O processo começou pela bandeja principal e, depois, foram desenhadas as peças individuais e os respetivos encaixes. Durante o desenvolvimento, vários aspetos foram ajustados — proporções, espessuras, tolerâncias de encaixe — até chegar a uma versão equilibrada e funcional.
+
+A integração do Braille foi uma das decisões centrais do processo. A proposta inicial explorava outras formas de identificação tátil, mas o Braille revelou-se a solução mais acessível e direta para o público-alvo. As inscrições em cada peça e em cada encaixe correspondem ao nome da forma em português, ligando o reconhecimento tátil à aprendizagem das figuras geométricas. 
+
+![](attachments/1.png)
+Criação da base e formas
+
+![](attachments/2.png)
+teste da base com 8 formas respeitando a dimensão da base e o espaço entre cada uma.
+
+![](attachments/3.png)
+Forma final do desenvolvimento do projeto em fusion.
 
 
 ## 3. Protótipos Exploratórios
@@ -40,7 +51,7 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+ https://a360.co/4oyRqbn
 
 ## 5. Outros Modelos
 
@@ -54,19 +65,24 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
+![](attachments/estudos.jpeg)
+Estudos
+
+![](attachments/estudos2.jpeg)
+Estudo 2
+
+![](attachments/esboço.jpeg)
+Esboço
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+![](attachments/PranchaResumo2.png)
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](attachments/placeholder.png)
+![](attachments/inspiração.jpg)
 
 ## 9. Outros Elementos
 
