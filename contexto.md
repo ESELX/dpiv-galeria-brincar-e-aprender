@@ -84,7 +84,7 @@ As referências selecionadas para o moodboard foram maioritariamente inspiradas 
 
 ![Moodboard](produtos/mykyta/attachments/moodboard.jpg)
 
-## 3. Packaging
+## 3. Packaging.
 
 A embalagem foi desenvolvida com texturas táteis e informações em Braille em alto-relevo, permitindo que possa ser identificada e lida por utilizadores com deficiência visual. Foi concebida como uma solução universal para todos os brinquedos da marca, apresentando dimensões de 35 × 25 × 15 cm.
 
